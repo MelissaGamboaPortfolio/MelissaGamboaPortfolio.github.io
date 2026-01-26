@@ -346,10 +346,11 @@ input, select, textarea {
   display: flex;
   align-items: center;
   gap: 30px;
+
 }
 
 .tool img {
-  width: 30px;
+  width: 35px;
 }
 
 .tools-icons li {
